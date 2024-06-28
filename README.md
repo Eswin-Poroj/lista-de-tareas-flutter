@@ -66,7 +66,8 @@ lib/
 ## Funcionalidades Futuras
 
 - Sincronización en la Nube: Permitir a los usuarios sincronizar sus tareas con un servicio en la nube.
-Notificaciones: Implementar notificaciones para recordar a los usuarios sobre sus tareas pendientes.
+
+- Notificaciones: Implementar notificaciones para recordar a los usuarios sobre sus tareas pendientes.
 
 - Temas Personalizados: Permitir a los usuarios personalizar el tema de la aplicación.
 
